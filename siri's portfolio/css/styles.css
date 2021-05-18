@@ -1,0 +1,79 @@
+body {
+  background-color: #283618 ;
+  font-family: Bogart,Recoleta,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 2em;
+    letter-spacing: -1.5px;
+    line-height: 110%;
+    margin: 10;
+    padding: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FEFAE0;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #DDA15E;
+}
+
+h2 {
+  color: #DDA15E;
+}
+
+p {
+  color: #FEFAE0 ;
+}
+
+img {
+  height: 315px;
+}
+
+.intro {
+  width: 100%;
+  background-color: #606C38;
+
+}
+
+.links {
+  width: 100%;
+  background-color: #606C38;
+}
+
+.pics {
+  width: 100%;
+  background-color: #606C38;
+}
+
+.collage {
+  width: 100%;
+  background-color: #606C38;
+
+}
+
+.perspective {
+  width: 100%;
+  background-color: #606C38;
+
+}
+
+.blindcontours {
+  width: 100%;
+  background-color: #606C38;
+
+}
+
+.matrix {
+  width: 100%;
+  background-color: #606C38;
+
+}
+
+.series {
+  width: 100%;
+  background-color: #606C38;
+
+}
